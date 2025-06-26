@@ -10,7 +10,7 @@
 
 ## Prototype Setup
 
-<img src="https://github.com/user-attachments/assets/11a1f089-cd09-44f1-b9de-2cb05c2e2901" width="400"/>
+<img src="https://github.com/user-attachments/assets/11a1f089-cd09-44f1-b9de-2cb05c2e2901" width="600"/>
 
 
 Visitors interact with physical 3D-printed puzzle pieces arranged on a surface. A live camera feed captures the layout, which is then interpreted by an AI model based on a user-provided style instruction. The result is a reimagined artwork generated in real time.
